@@ -4,7 +4,7 @@
 The dataset contains missing values, duplicate entries, and inconsistent data formats, and the project focuses on 
 making the data analysis-ready.
 
-**Data Set:** Human Resource Data Report
+**Data Set:** Human Resource Sector Data Report
 
 ## 🚀 What This Project Covers:
 
